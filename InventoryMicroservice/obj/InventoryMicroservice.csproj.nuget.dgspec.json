@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\InventoryMicroservice\\InventoryMicroservice.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\Dtos\\Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\Dtos\\Dtos.csproj",
+        "projectName": "Dtos",
+        "projectPath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\Dtos\\Dtos.csproj",
+        "packagesPath": "C:\\Users\\ghadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ghadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\InventoryMicroservice\\InventoryMicroservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\InventoryMicroservice\\InventoryMicroservice.csproj",
+        "projectName": "InventoryMicroservice",
+        "projectPath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\InventoryMicroservice\\InventoryMicroservice.csproj",
+        "packagesPath": "C:\\Users\\ghadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\InventoryMicroservice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ghadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\Dtos\\Dtos.csproj": {
+                "projectPath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\Dtos\\Dtos.csproj"
+              },
+              "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\PostgresqlHelper\\PostgresqlHelper.csproj": {
+                "projectPath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\PostgresqlHelper\\PostgresqlHelper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.57.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\PostgresqlHelper\\PostgresqlHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\PostgresqlHelper\\PostgresqlHelper.csproj",
+        "projectName": "PostgresqlHelper",
+        "projectPath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\PostgresqlHelper\\PostgresqlHelper.csproj",
+        "packagesPath": "C:\\Users\\ghadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\PostgresqlHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ghadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\bin\Debug\net8.0\PostgresqlHelper.deps.json
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\bin\Debug\net8.0\PostgresqlHelper.dll
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\bin\Debug\net8.0\PostgresqlHelper.pdb
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\PostgresqlHelper.csproj.AssemblyReference.cache
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\PostgresqlHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\PostgresqlHelper.AssemblyInfoInputs.cache
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\PostgresqlHelper.AssemblyInfo.cs
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\PostgresqlHelper.csproj.CoreCompileInputs.cache
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\PostgresqlHelper.dll
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\refint\PostgresqlHelper.dll
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\PostgresqlHelper.pdb
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\PostgresqlHelper\obj\Debug\net8.0\ref\PostgresqlHelper.dll

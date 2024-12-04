@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "IYHNxNX1Sg5XcfUkJrgAVBNHdGxFTQ20LLiae2o7mmaaks2FO+O+H02OJDkesgij5s/mAHjn1YMOQbPSWywSuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghadi\\OneDrive\\Desktop\\Work\\roubi\\distributed_project\\PostgresqlHelper\\PostgresqlHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghadi\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\ghadi\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
+    "C:\\Users\\ghadi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\ghadi\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\ghadi\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
+    "C:\\Users\\ghadi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Npgsql' 6.0.10 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

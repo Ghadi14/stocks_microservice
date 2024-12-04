@@ -1,0 +1,12 @@
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\bin\Debug\net8.0\InterceptorHelper.deps.json
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\bin\Debug\net8.0\InterceptorHelper.dll
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\bin\Debug\net8.0\InterceptorHelper.pdb
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\InterceptorHelper.csproj.AssemblyReference.cache
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\InterceptorHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\InterceptorHelper.AssemblyInfoInputs.cache
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\InterceptorHelper.AssemblyInfo.cs
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\InterceptorHelper.csproj.CoreCompileInputs.cache
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\InterceptorHelper.dll
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\refint\InterceptorHelper.dll
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\InterceptorHelper.pdb
+C:\Users\ghadi\OneDrive\Desktop\Work\roubi\distributed_project\InterceptorHelper\obj\Debug\net8.0\ref\InterceptorHelper.dll

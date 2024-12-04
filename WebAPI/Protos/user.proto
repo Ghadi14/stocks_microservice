@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option csharp_namespace = "UserMicroservice";
+
+package user;
+
+service User {
+  rpc CreateUser (CreateUserRequest) returns (CreateUserReply);
+  rpc UpdateCash (UpdateCashRequest) returns (UpdateCashReply);
+
+}
+
+message CreateUserRequest {
+  string name = 1;
+  int32 cash=2;
+}
+
+message CreateUserReply {
+  string message = 1;
+  int32 code = 2;
+}
+message UpdateCashRequest{
+	  string name = 1;
+	  int32 cash=2;
+}
+
+message UpdateCashReply {
+  string message = 1;
+  int32 code = 2;
+}

@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+option csharp_namespace = "InventoryMicroservice";
+
+package inventoryproto;
+
+service inventoryproto {
+  rpc GetAll (GetInventoryGrpcRequest) returns (GetInventoryGrpcResponse);
+    rpc Buy (BuyRequest) returns (BuyReply);
+
+}
+
+message GetInventoryGrpcRequest {
+}
+
+message GetInventoryGrpcResponse {
+repeated inventoryItem inventory=1;
+}
+
+message inventoryItem{
+  int32 id = 1;
+  string item = 2;
+  int32 item_count = 3;
+  int32 price = 4;
+
+}
+
+message BuyRequest{
+	string username=1;
+	int32 itemid=2;
+	int32 quantity=3;
+}
+message BuyReply{
+	string message=1;
+	int32 code=2;
+}
